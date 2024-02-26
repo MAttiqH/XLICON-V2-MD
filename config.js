@@ -55,21 +55,21 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'XLICON-V2'
+global.botname = 'TLP-Team'
 global.premium = 'true'
-global.packname = 'XLICON TEAM' 
-global.author = '@XLICON-V2' 
-global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
-global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
+global.packname = 'TLP' 
+global.author = 'Attiq' 
+global.menuvid = 'https://telegra.ph/file/4f3d8e5eb8ea90b303cda.mp4'
+global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029Va7lbQmAojZ1iLmyL52D/261\n' 
+global.dygp = 'https://whatsapp.com/channel/0029Va7lbQmAojZ1iLmyL52D/261'
 global.fgsc = 'https://github.com/salmanytofficial/XLICON-V2-MD' 
-global.fgyt = 'https://youtube.com/@s4salmanyt'
-global.fgpyp = 'https://youtube.com/@s4salmanyt'
+global.fgyt = 'https://whatsapp.com/channel/0029Va7lbQmAojZ1iLmyL52D/261'
+global.fgpyp = 'https://whatsapp.com/channel/0029Va7lbQmAojZ1iLmyL52D/261'
 global.fglog = 'XLICON.jpg' 
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
 
-global.wait = '*🕣 _XLICON IS LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 _LOADIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✔️'
